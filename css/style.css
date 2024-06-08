@@ -1,0 +1,164 @@
+body {
+    font-family: "";
+    color: white;
+    align-content: center;
+}
+p {
+    font-family: impact;
+    font-size: 12px;
+    color: white;
+    align-content: center;
+}
+h1 {
+    font-family: impact;
+    font-size: 32px;
+    color: orange;
+      align-content: center;
+      border: 10px solid navy;
+      background-color: black;
+      align-content: center;
+      margin: auto;
+      padding: 3px;
+}
+
+h2 {
+    font-family: impact;
+    font-size: 22px;
+    color: navy;
+      align-content: center;
+}
+
+h3 {
+    font-family: impact;
+    font-size: 32px;
+    color: orange;
+      align-content: center;
+}
+
+.container {
+    padding: 1.25rem;
+    margin: auto;
+    border: 5px solid orange;
+    border-radius: 5px solid black;
+    max-width: 800px;
+    margin: 0 auto;
+    align-content: center;
+    -webkit-border-radius: 5px solid black;
+    -moz-border-radius: 5px solid black;
+    -ms-border-radius: 5px solid black;
+    -o-border-radius: 5px solid black;
+}
+
+* {
+    box-sizing: border-box;
+      align-content: center;
+}
+
+a {
+    text-decoration: none;
+    color: navy;
+      align-content: center;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: orange;
+      align-content: center;
+}
+
+.flex-container {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    font-family: "agency FB", "impact", "cursive";
+    background-color: black;
+    color: orange;
+    border: 5px;
+    border-color:white;
+      align-content: center;
+  }
+        body {
+            font-family: "impact", "agency FB", "cursive";
+            background-color: #494949;
+            color: #FFF;
+              align-content: center;
+             }
+
+        h1 {
+            font-family: "impact", "agency FB", "cursive";
+            color: #F3A000;
+            font-weight: normal;
+            width: 18.75rem;
+            align-content: center;
+            border: 5px solid black ;
+            padding: 1.25rem;
+            margin: auto;
+        
+        }
+
+        h2 {
+            font-family: "impact", "agency FB", "cursive";
+            color: #F3A000;
+            font-style: normal;
+              align-content: center;
+        }
+
+        h3 {
+            font-family: "impact", "agency FB", "cursive";
+            color: #F3A000;
+              align-content: center;
+        }
+
+        h4 {
+            font-family: "impact", "agency FB", "cursive";
+            color: #F3A000;
+            font-style: normal;
+
+        }
+
+        p {
+            font-family: "impact", "agency FB", "cursive";
+            color: #FFF;
+            font-style: normal;
+            line-height: 1.25;
+        }
+        strong {
+            font-family: "impact", "agency FB", "cursive";
+            font-weight: bold; 
+            font-style: normal;
+        }
+
+        a {
+            text-decoration: none;
+            color: darkblue;
+        }
+
+        a:hover {
+            color: darkorange;
+        }
+
+        ul {
+            list-style: none;
+            font-family: "impact", "agency FB", "cursive";
+        }
+
+        ol {
+            list-style: upper-alpha;
+            font-faimily: "impact", "agency FB", "cursive";
+        }
+        section {
+            display: inline-flexbox;
+            flex-direction: row;
+            font-family: "impact", "agency FB", "cursive";
+            font-size: medium;
+            
+        }
+        article {
+            font-style: normal;
+            font-family: "Agency FB", "impact", "cursive";
+            margin: auto;
+            border-color: darkblue;
+            border-width: 4px;
+            font-style: normal;
+            align-content: center;
+        }
